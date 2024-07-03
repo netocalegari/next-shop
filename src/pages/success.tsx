@@ -15,7 +15,7 @@ export default function Success() {
       </p>
 
       <Link href={`/`} passHref legacyBehavior>
-        voltar ao catálogo
+        Voltar ao catálogo
       </Link>
     </SuccessContainer>
   );
